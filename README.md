@@ -1,5 +1,5 @@
 Project Title
-MCC_queue
+MCC REGISTRAR QUEING SYTEM
 
 Description
 -This project is created to demonstrate and develop skills in programming and system development. It provides a simple and organized structure that can be used for learning, practice, or academic purposes.
